@@ -1,8 +1,8 @@
 {
   "meta": {
     "name": "Multilingual Word Bank (SFW) for Word-Guess Games",
-    "version": "5.0",
-    "created_utc": "2025-12-30T23:36:15Z",
+    "version": "5.1",
+    "created_utc": "2025-12-31T00:11:59Z",
     "languages": [
       "en",
       "es",
@@ -22,19 +22,6 @@
       "jobs",
       "adjectives",
       "science_tech"
-    ],
-    "notes": [
-      "Tokens normalized to single-word (spaces/hyphens removed).",
-      "2-letter tokens removed from multilingual topics via aligned index filtering.",
-      "places includes countries and cities.",
-      "Core topics expanded to 315+ entries.",
-      "internet_slang_sfw kept in EN only; includes gaming/streaming terms.",
-      "Removed all entries that originated as multi-word (space/hyphen/apostrophe) phrases in the original dataset; no concatenation retained.",
-      "Colors reduced to 50 obvious tones. Added bodyparts, jobs, science_space, adjectives.",
-      "meta.topics synced with actual topics object.",
-      "Added small set of easy extra words to colors, bodyparts, jobs, science_space, adjectives.",
-      "Renamed science_space to science_tech; expanded science_tech and adjectives; cleaned tech terms from slang.",
-      "Expanded adjectives, places, jobs, science_tech, and bodyparts for long-session safety."
     ]
   },
   "topics": {
